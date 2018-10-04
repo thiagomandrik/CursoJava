@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f583880-0af7-4e66-a593-833635ff71b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercicioControleDeFluxo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoJava/ControleDeFluxo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoJava/ControleDeFluxo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleDeFluxo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +27,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3133" />
+          <entry key="java" value="4120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3133" />
+          <entry key="JAVA" value="4120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -56,11 +59,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="288">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExercicioControleDeFluxo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -89,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/OperadoresLogicos.java" />
         <option value="$PROJECT_DIR$/src/OperadoresDeAtribuicao.java" />
         <option value="$PROJECT_DIR$/src/ControleDeFluxo.java" />
+        <option value="$PROJECT_DIR$/src/ControleDeFluxo2.java" />
+        <option value="$PROJECT_DIR$/src/ExercicioControleDeFluxo.java" />
       </list>
     </option>
   </component>
@@ -125,7 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538616301607" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538620755267" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -140,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ControleDeFluxo">
+  <component name="RunManager" selected="Application.ExercicioControleDeFluxo">
     <configuration name="ControleDeFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControleDeFluxo" />
       <module name="CursoJava" />
@@ -148,8 +171,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operadores" />
+    <configuration name="ControleDeFluxo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleDeFluxo2" />
+      <module name="CursoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioControleDeFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioControleDeFluxo" />
       <module name="CursoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,13 +187,6 @@
     </configuration>
     <configuration name="OperadoresDeAtribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperadoresDeAtribuicao" />
-      <module name="CursoJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadoresDeComparação" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresDeComparação" />
       <module name="CursoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -177,19 +200,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Operadores" />
-      <item itemvalue="Application.OperadoresDeComparação" />
       <item itemvalue="Application.OperadoresLogicos" />
       <item itemvalue="Application.OperadoresDeAtribuicao" />
       <item itemvalue="Application.ControleDeFluxo" />
+      <item itemvalue="Application.ControleDeFluxo2" />
+      <item itemvalue="Application.ExercicioControleDeFluxo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioControleDeFluxo" />
+        <item itemvalue="Application.ControleDeFluxo2" />
         <item itemvalue="Application.ControleDeFluxo" />
         <item itemvalue="Application.OperadoresDeAtribuicao" />
         <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.OperadoresDeComparação" />
-        <item itemvalue="Application.Operadores" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +233,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24659607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,7 +250,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32903227" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -317,6 +340,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/OperadoresDeAtribuicao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -324,10 +354,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo.java">
+    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="36">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercicioControleDeFluxo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
