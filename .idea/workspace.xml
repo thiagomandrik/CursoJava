@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f583880-0af7-4e66-a593-833635ff71b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioControleDeFluxo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CursoJava/ControleDeFluxo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CursoJava/ControleDeFluxo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControleDeFluxo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4120" />
+          <entry key="java" value="5037" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4120" />
+          <entry key="JAVA" value="5037" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -77,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExercicioControleDeFluxo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
               <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -112,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/ControleDeFluxo.java" />
         <option value="$PROJECT_DIR$/src/ControleDeFluxo2.java" />
         <option value="$PROJECT_DIR$/src/ExercicioControleDeFluxo.java" />
+        <option value="$PROJECT_DIR$/src/ControleDeFluxo3.java" />
       </list>
     </option>
   </component>
@@ -148,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538620755267" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538623637550" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -163,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExercicioControleDeFluxo">
+  <component name="RunManager" selected="Application.ControleDeFluxo3">
     <configuration name="ControleDeFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControleDeFluxo" />
       <module name="CursoJava" />
@@ -173,6 +180,13 @@
     </configuration>
     <configuration name="ControleDeFluxo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControleDeFluxo2" />
+      <module name="CursoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControleDeFluxo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleDeFluxo3" />
       <module name="CursoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,27 +206,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresLogicos" />
-      <module name="CursoJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.OperadoresLogicos" />
       <item itemvalue="Application.OperadoresDeAtribuicao" />
       <item itemvalue="Application.ControleDeFluxo" />
       <item itemvalue="Application.ControleDeFluxo2" />
       <item itemvalue="Application.ExercicioControleDeFluxo" />
+      <item itemvalue="Application.ControleDeFluxo3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ControleDeFluxo3" />
         <item itemvalue="Application.ExercicioControleDeFluxo" />
         <item itemvalue="Application.ControleDeFluxo2" />
         <item itemvalue="Application.ControleDeFluxo" />
         <item itemvalue="Application.OperadoresDeAtribuicao" />
-        <item itemvalue="Application.OperadoresLogicos" />
       </list>
     </recent_temporary>
   </component>
@@ -365,6 +372,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>
